@@ -19,7 +19,6 @@ namespace TradingPlaces.WebApi.Controllers
         {
             _strategyManagementService = strategyManagementService;
             _logger = logger;
-            _strategyManagementService = strategyManagementService;
         }
 
         [HttpPost]
